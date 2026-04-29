@@ -20,7 +20,7 @@
 
 ## 🧑‍💻 About me
 
-I'm a 2nd year IT undergrad at USICT, GGSIPU who loves competitive programming and building useful things. Currently focused on sharpening my DSA skills and exploring full-stack development while hunting for SDE internship opportunities.
+I'm a pre-final year IT undergrad at USICT, GGSIPU who loves competitive programming and building useful things. Currently focused on sharpening my DSA skills and exploring full-stack development while hunting for SDE internship opportunities.
 
 - 🎓 B.Tech Information Technology · USICT, GGSIPU · Graduating 2027 · CGPA: **8.71**
 - 🔭 Currently working on: **full-stack projects + SDE intern prep**
