@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Divyam 👋</h1>
 
 <p align="center">
-  <em>IT @ USICT, GGSIPU &nbsp;·&nbsp; Competitive Programmer &nbsp;·&nbsp; SDE Intern Hunter</em>
+  <em>IT @ USICT, GGSIPU &nbsp;·&nbsp; Competitive Programmer &nbsp;·&nbsp; </em>
 </p>
 
 <p align="center">
