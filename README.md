@@ -7,11 +7,11 @@
 <p align="center">
   <a href="https://linkedin.com/in/divyam"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   &nbsp;
-  <a href="https://leetcode.com/divyam"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" /></a>
+  <a href="https://leetcode.com/u/smokie23/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" /></a>
   &nbsp;
-  <a href="https://codeforces.com/profile/divyam"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white" /></a>
+  <a href="https://codeforces.com/profile/smokie18"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white" /></a>
   &nbsp;
-  <a href="https://www.codechef.com/users/divyam"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white" /></a>
+  <a href="https://www.codechef.com/users/smokie18"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white" /></a>
   &nbsp;
   <a href="mailto:divyam13004@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
